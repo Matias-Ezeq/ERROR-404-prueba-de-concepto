@@ -1,9 +1,9 @@
-import example.pepita
+import tablero.*
 
-describe "group of tests for pepita" {
+describe "grupo de tests para el tablero" {
 
-  test "pepita has initial energy" {
-    assert.equals(100, pepita.energy())
+  test "sDFSFFAWdQW" {
+    assert.that(true)
   }
 
 }
